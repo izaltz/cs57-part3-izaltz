@@ -1,0 +1,8 @@
+constantprop.c
+cseElim.c
+part3
+part3.o
+testing.out
+opt_tests
+lec11_global_opt
+test_new.lec11_global_opt
